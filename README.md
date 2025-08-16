@@ -1,14 +1,46 @@
+# Hello, 你好! Jessica here.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jesslynnwi/) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bolakecil&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bolakecil&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bolakecil&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bolakecil&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />  
+  <a href="mailto:jeslynn30@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jessica-lynn-w/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bolakecil&icon=0&color=0)](https://visitcount.itsvg.in)
+
+##  About Me
+-  **Name:** Jessica Lynn Wibowo  
+-  Currently a **Junior Developer** at the Apple Developer Academy at BINUS
+-  iOS Developer-in-training with a growing focus on **AI (Machine Learning)** and passion for **Mandarin**  
+
+---
+
+##  Day & Night Life
+- **By day:** Building iOS apps and learning the ropes at Apple Developer Academy  
+- **By night:** Diving into AI/ML and sharpening Mandarin fluency  
+- **Always:** Curious, learning, and ready to pick up new tools
+
+---
+
+##  Toolbox
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolakecil&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+##  Stats & GitHub Highlights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bolakecil&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=bolakecil&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+
+
 
 
 <!---
