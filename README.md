@@ -10,27 +10,23 @@
   </a>
 </p>
 
----
 
 ##  About Me
 -  Currently a **Junior Developer** at the Apple Developer Academy at BINUS
 -  iOS Developer-in-training with a growing focus on **AI (Machine Learning)** and passion for **Mandarin**  
 
----
 
 ##  Day & Night Life
 - **By day:** Building iOS apps and learning the ropes at Apple Developer Academy  
 - **By night:** Diving into AI/ML and sharpening Mandarin fluency  
 - **Always:** Curious, learning, and ready to pick up new tools
 
----
 
 ##  Toolbox
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolakecil&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
 
 ##  Stats & GitHub Highlights
 <p align="center">
