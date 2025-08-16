@@ -13,7 +13,6 @@
 ---
 
 ##  About Me
--  **Name:** Jessica Lynn Wibowo  
 -  Currently a **Junior Developer** at the Apple Developer Academy at BINUS
 -  iOS Developer-in-training with a growing focus on **AI (Machine Learning)** and passion for **Mandarin**  
 
